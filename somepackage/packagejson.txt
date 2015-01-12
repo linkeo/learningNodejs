@@ -1,0 +1,11 @@
+{
+	name: String // digits + lower letters + underline, no whitespace
+	description: String
+	version: String // as Semantic Versioning
+	keywords: [String]
+	maintainers:[{name:String,email?:String,web?:String}]
+	contributors:[{name:String,email?:String,web?:String}]
+	bugs: String // address to report bugs
+	licenses: [{type:String,url:String}]
+	repositories: [{type:String, url:String, path?:String}]
+}
