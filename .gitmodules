@@ -1,0 +1,3 @@
+[submodule "learningNodejs.wiki"]
+	path = learningNodejs.wiki
+	url = git@github.com:linkeo/learningNodejs.wiki.git
